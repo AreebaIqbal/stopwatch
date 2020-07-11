@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to right, rgb(138, 138, 145), rgb(116, 116, 150),  rgb(197, 197, 206));
+    text-align: center;
+    margin-top: 50px;  
+}
+
+
+.head{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to right, rgb(68, 68, 83), rgb(40, 40, 53),  rgb(90, 90, 126));
+    width: 300px;
+    padding: 25px;
+    font-size: 44px;
+    color: azure;
+    box-shadow: 1px 1px 30px ghostwhite;
+}
+
+
+h1{
+    
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    font-size: 50px;
+    margin: 2px;
+    margin-top: 50px;
+    border-radius: 50%;
+    border-style: outset;
+    color: red;
+
+}
+
+button{
+    width: 80px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(14, 12, 24);
+    border-radius: 10%;
+    font-weight: bolder;
+    box-shadow: 1px 1px 10px rgb(105, 104, 104);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer; 
+    background-image: linear-gradient(to right, rgb(68, 68, 83), rgb(40, 40, 53),  rgb(90, 90, 126));
+    color: ghostwhite;
+}
